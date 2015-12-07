@@ -1,0 +1,2 @@
+/Users/coolli/Library/Developer/Xcode/DerivedData/CoreAnimationDemo-dqdmczljeotcowhgzuqfjhrqferr/Build/Products/Debug-iphonesimulator/CoreAnimationDemo.app
+
